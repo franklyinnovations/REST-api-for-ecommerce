@@ -4,15 +4,7 @@
 ## Description
 An e-commerce application with the MEAN stack.
 
-Lot more features to be added soon.
 
-## Screen Shots
-
-![Screen Shots](/images/mean-1.png?raw=true "MEAN Shop")
-![Screen Shots](/images/mean-2.png?raw=true "MEAN Shop")
-![Screen Shots](/images/mean-3.png?raw=true "MEAN Shop")
-![Screen Shots](/images/mean-4.png?raw=true "MEAN Shop")
- 
 
 ## Prerequisites
 
